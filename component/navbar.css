@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+nav img{
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 10px;
+    color: green;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: red;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
